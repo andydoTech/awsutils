@@ -1,2 +1,2 @@
 # awsutils
-# Cloudformation resources and outputs
+# Cloudformation utilities
